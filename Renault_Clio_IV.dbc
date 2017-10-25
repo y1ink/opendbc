@@ -48,5 +48,5 @@ BO_ 535 NEW_MSG_2: 8 XXX
 BO_ 1642 NEW_MSG_3: 8 XXX
  SG_ NEW_SIGNAL_1 : 31|8@0+ (1,0) [0|255] "" XXX
 
-BO_ 390 NEW_MSG_4: 8 XXX
+BO_ 390 Acc: 8 XXX
  SG_ Accelerator : 7|8@0+ (1,0) [0|255] "" XXX
