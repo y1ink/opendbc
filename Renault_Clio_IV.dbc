@@ -36,10 +36,13 @@ BS_:
 BU_: XXX
 
 
-BO_ 198 NEW_MSG_1: 8 XXX
+BO_ 198 Steering: 8 XXX
  SG_ NEW_SIGNAL_1 : 15|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_2 : 23|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_3 : 31|8@0+ (1,0) [0|255] "" XXX
+ SG_ NEW_SIGNAL_4 : 55|8@0+ (1,0) [0|255] "" XXX
+ SG_ NEW_SIGNAL_5 : 63|8@0+ (1,0) [0|255] "" XXX
+ SG_ Steering : 7|8@0+ (1,0) [0|255] "" XXX
 
 BO_ 535 NEW_MSG_2: 8 XXX
  SG_ NEW_SIGNAL_1 : 39|8@0+ (1,0) [0|255] "" XXX
@@ -57,10 +60,13 @@ BO_ 390 Acc: 8 XXX
  SG_ NEW_SIGNAL_2 : 31|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_3 : 39|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_4 : 15|8@0+ (1,0) [0|255] "" XXX
+ SG_ NEW_SIGNAL_5 : 47|8@0+ (1,0) [0|255] "" XXX
+ SG_ NEW_SIGNAL_6 : 55|8@0+ (1,0) [0|255] "" XXX
 
 BO_ 302 NEW_MSG_4: 8 XXX
  SG_ NEW_SIGNAL_1 : 7|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_2 : 39|8@0+ (1,0) [0|255] "" XXX
+ SG_ NEW_SIGNAL_3 : 23|8@0+ (1,0) [0|255] "" XXX
 
 BO_ 394 NEW_MSG_5: 8 XXX
  SG_ NEW_SIGNAL_1 : 7|8@0+ (1,0) [0|255] "" XXX
