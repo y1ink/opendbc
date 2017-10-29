@@ -82,7 +82,7 @@ BO_ 502 NEW_MSG_6: 8 XXX
  SG_ NEW_SIGNAL_5 : 55|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_3 : 47|8@0+ (1,0) [0|255] "" XXX
 
-BO_ 666 NEW_MSG_7: 8 XXX
+BO_ 666 Wheel Sensors: 8 XXX
  SG_ NEW_SIGNAL_1 : 7|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_2 : 15|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_3 : 23|8@0+ (1,0) [0|255] "" XXX
@@ -91,7 +91,7 @@ BO_ 666 NEW_MSG_7: 8 XXX
  SG_ NEW_SIGNAL_6 : 47|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_8 : 63|8@0+ (1,0) [0|255] "" XXX
 
-BO_ 668 NEW_MSG_8: 8 XXX
+BO_ 668 Wheel Sensors 2: 8 XXX
  SG_ NEW_SIGNAL_1 : 7|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_2 : 15|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_3 : 23|8@0+ (1,0) [0|255] "" XXX
@@ -136,9 +136,9 @@ BO_ 1380 NEW_MSG_15: 8 XXX
  SG_ NEW_SIGNAL_1 : 7|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_2 : 15|8@0+ (1,0) [0|255] "" XXX
 
-BO_ 1495 NEW_MSG_16: 8 XXX
- SG_ NEW_SIGNAL_1 : 7|8@0+ (1,0) [0|255] "" XXX
+BO_ 1495 Speed: 8 XXX
  SG_ NEW_SIGNAL_2 : 15|8@0+ (1,0) [0|255] "" XXX
+ SG_ Speed : 7|8@0+ (1,0) [0|255] "" XXX
 
 BO_ 1628 NEW_MSG_17: 8 XXX
  SG_ NEW_SIGNAL_1 : 15|8@0+ (1,0) [0|255] "" XXX
@@ -148,8 +148,8 @@ BO_ 1608 NEW_MSG_18: 8 XXX
  SG_ NEW_SIGNAL_2 : 31|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_3 : 39|8@0+ (1,0) [0|255] "" XXX
 
-BO_ 848 NEW_MSG_1: 8 XXX
- SG_ NEW_SIGNAL_1 : 47|8@0+ (1,0) [0|255] "" XXX
+BO_ 848 Brake 2: 8 XXX
+ SG_ Brake 2 : 47|8@0+ (1,0) [0|255] "" XXX
 
 BO_ 1373 NEW_MSG_19: 8 XXX
  SG_ NEW_SIGNAL_1 : 23|8@0+ (1,0) [0|255] "" XXX
@@ -158,5 +158,5 @@ BO_ 1373 NEW_MSG_19: 8 XXX
 BO_ 1502 NEW_MSG_20: 8 XXX
  SG_ NEW_SIGNAL_1 : 7|8@0+ (1,0) [0|255] "" XXX
 
-BO_ 1498 NEW_MSG_21: 8 XXX
- SG_ NEW_SIGNAL_1 : 7|8@0+ (1,0) [0|255] "" XXX
+BO_ 1498 Engine Temp: 8 XXX
+ SG_ Engine Temp : 7|8@0+ (1,0) [0|255] "" XXX
